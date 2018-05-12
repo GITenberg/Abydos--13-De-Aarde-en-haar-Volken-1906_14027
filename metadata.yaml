@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5336
     wikipedia: http://fr.wikipedia.org/wiki/%C3%89mile_Am%C3%A9lineau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14027#Abydos--13-De-Aarde-en-haar-Volken-1906
 gutenberg_bookshelf: De Aarde en haar Volken
 gutenberg_issued: '2004-11-11'
 gutenberg_type: Text
